@@ -1,0 +1,976 @@
+states,cities,safety_index
+Pennsylvania,"Abington Township, Montgomery County",431.19000000000005
+Oregon,Albany,622.5900000000001
+Louisiana,Alexandria,1778.28
+California,Aliso Viejo,188.38
+Florida,Altamonte Springs,653.135
+Pennsylvania,Altoona,447.795
+Iowa,Ames,523.7950000000001
+Indiana,Anderson,1081.48
+Iowa,Ankeny,295.605
+Florida,Apopka,665.45
+Minnesota,Apple Valley,462.2
+California,Arcadia,507.63000000000005
+Massachusetts,Arlington,259.655
+Massachusetts,Attleboro,531.9799999999999
+Alabama,Auburn,757.415
+California,Azusa,557.3900000000001
+Massachusetts,Barnstable,671.5000000000001
+Illinois,Bartlett,162.38000000000002
+Tennessee,Bartlett,317.06
+Ohio,Beavercreek,485.055
+Texas,Bedford,591.125
+California,Bell Gardens,280.795
+Nebraska,Bellevue,441.56500000000005
+Illinois,Berwyn,537.675
+Massachusetts,Beverly,352.545
+Massachusetts,Billerica,249.05500000000004
+Mississippi,Biloxi,1099.535
+New York,Binghamton,1123.06
+Virginia,Blacksburg,234.48
+Minnesota,Blaine,677.35
+Michigan,Bloomfield Township,232.42
+New Jersey,Bloomfield,462.735
+Missouri,Blue Springs,690.0100000000001
+Ohio,Boardman,861.295
+Utah,Bountiful,438.37
+Maryland,Bowie,344.195
+Kentucky,Bowling Green,1069.965
+Florida,Bradenton,913.575
+California,Brea,671.8750000000001
+California,Brentwood,464.03
+New Jersey,Bridgewater Township,299.65500000000003
+Pennsylvania,Bristol Township,656.7900000000001
+Massachusetts,Brookline,294.785
+Colorado,Broomfield,419.4500000000001
+Arizona,Buckeye,554.46
+Illinois,Buffalo Grove,183.64
+Arizona,Bullhead City,839.5749999999999
+North Carolina,Burlington,1221.6750000000002
+Idaho,Caldwell,537.335
+California,Campbell,825.7450000000001
+Illinois,Carol Stream,255.46
+Arizona,Casa Grande,1227.78
+Wyoming,Casper,718.93
+Colorado,Castle Rock,280.19000000000005
+California,Cathedral City,621.6650000000001
+Texas,Cedar Hill,746.7850000000001
+Texas,Cedar Park,326.89
+California,Ceres,817.6850000000001
+California,Cerritos,770.1
+North Carolina,Chapel Hill,548.6800000000001
+Virginia,Charlottesville,729.125
+Michigan,Chesterfield Township,446.93
+Missouri,Chesterfield,324.63500000000005
+Massachusetts,Chicopee,686.5350000000001
+Ohio,Cleveland Heights,770.635
+Tennessee,Cleveland,1202.225
+California,Coachella,749.615
+Florida,Coconut Creek,619.9250000000001
+Idaho,Coeur d'Alene,952.885
+Ohio,Colerain Township,551.115
+Tennessee,Collierville,424.12500000000006
+California,Colton,707.905
+Indiana,Columbus,979.195
+Colorado,Commerce City,637.645
+New Hampshire,Concord,633.4350000000001
+Texas,Conroe,745.78
+Texas,Coppell,350.795
+Florida,Coral Gables,969.84
+Oregon,Corvallis,544.105
+California,Covina,701.605
+Illinois,Crystal Lake,416.575
+California,Cupertino,280.16
+Florida,Cutler Bay,922.395
+Ohio,Cuyahoga Falls,536.7850000000001
+California,Cypress,430.00500000000005
+California,Danville,215.325
+Virginia,Danville,969.3250000000002
+Illinois,De Kalb,672.32
+Michigan,Dearborn Heights,461.235
+Alabama,Decatur,1133.18
+California,Delano,555.6149999999999
+Illinois,Des Plaines,335.735
+Texas,Desoto,761.7
+California,Diamond Bar,362.145
+Florida,Doral,994.8800000000002
+Illinois,Downers Grove,430.63000000000005
+Utah,Draper,416.07
+California,Dublin,334.535
+Ohio,Dublin,269.36
+Iowa,Dubuque,549.54
+Georgia,Dunwoody,818.6700000000001
+New Jersey,East Brunswick Township,371.50500000000005
+Connecticut,East Hartford,639.2200000000001
+Michigan,East Lansing,436.35
+Rhode Island,East Providence,371.22
+California,Eastvale,366.265
+Minnesota,Edina,367.295
+Washington,Edmonds,526.145
+New Jersey,Egg Harbor Township,434.935
+California,El Centro,1212.115
+Illinois,Elmhurst,291.7150000000001
+Connecticut,Enfield,386.445
+Oklahoma,Enid,861.32
+Texas,Euless,609.6450000000001
+Massachusetts,Everett,496.865
+New Jersey,Evesham Township,316.57000000000005
+Ohio,Fairfield,681.415
+New Mexico,Farmington,971.46
+Massachusetts,Fitchburg,662.245
+Missouri,Florissant,450.955
+Wisconsin,Fond du Lac,618.2049999999999
+Florida,Fort Pierce,1289.405
+California,Fountain Valley,542.4050000000001
+New York,Freeport Village,468.225
+Texas,Galveston,1082.585
+California,Gardena,446.295
+Texas,Georgetown,392.8
+California,Gilroy,719.1049999999999
+California,Glendora,520.285
+Illinois,Glenview,234.04
+North Dakota,Grand Forks,555.83
+Nebraska,Grand Island,985.74
+Colorado,Grand Junction,968.235
+Texas,Grapevine,569.8050000000001
+Montana,Great Falls,968.665
+New York,Greenburgh Town,282.76500000000004
+Indiana,Greenwood,755.32
+New Jersey,Hackensack,420.7925
+Maryland,Hagerstown,777.275
+Texas,Haltom City,700.185
+New York,Hamburg Town,589.3900000000001
+California,Hanford,678.1850000000001
+Pennsylvania,Harrisburg,1163.755
+Virginia,Harrisonburg,458.185
+Mississippi,Hattiesburg,1176.225
+Pennsylvania,Haverford Township,247.87
+New York,Hempstead Village,454.57499999999993
+Tennessee,Hendersonville,396.235
+North Carolina,Hickory,1392.55
+California,Highland,642.4399999999999
+New Jersey,Hoboken,415.815
+Illinois,Hoffman Estates,293.895
+Massachusetts,Holyoke,1387.97
+New Jersey,Howell Township,272.475
+North Carolina,Huntersville,467.81
+California,Huntington Park,575.655
+Kansas,Hutchinson,1291.66
+Idaho,Idaho Falls,626.345
+New York,Irondequoit Town,662.975
+New Jersey,Irvington,772.9399999999999
+New Jersey,Jackson Township,315.4175
+Missouri,Jefferson City,828.1850000000001
+Indiana,Jeffersonville,990.135
+Missouri,Joplin,1577.055
+Florida,Jupiter,457.63000000000005
+New Jersey,Kearny,426.275
+Texas,Keller,197.39500000000004
+Ohio,Kettering,484.895
+Tennessee,Kingsport,1294.845
+Washington,Kirkland,688.955
+Indiana,Kokomo,881.135
+Wisconsin,La Crosse,817.3450000000001
+California,La Mesa,620.1700000000001
+California,La Mirada,328.005
+California,La Puente,251.345
+Washington,Lacey,698.8900000000001
+California,Lake Elsinore,726.4599999999999
+Arizona,Lake Havasu City,520.71
+Minnesota,Lakeville,278.025
+Ohio,Lakewood,405.635
+Washington,Lakewood,1083.975
+Virginia,Leesburg,452.895
+Utah,Lehi,273.22
+Kansas,Lenexa,379.4
+Massachusetts,Leominster,743.9050000000001
+California,Lincoln,238.065
+New Jersey,Linden,490.86000000000007
+Colorado,Littleton,594.2900000000001
+Utah,Logan,440.68
+Illinois,Lombard,549.66
+California,Lompoc,625.9399999999999
+Pennsylvania,Lower Merion Township,374.475
+Pennsylvania,Lower Paxton Township,480.795
+Alabama,Madison,524.965
+New Jersey,Manchester Township,238.79
+Connecticut,Manchester,639.495
+Ohio,Mansfield,1473.7700000000002
+Texas,Mansfield,330.735
+Florida,Margate,451.02
+Arizona,Maricopa,392.035
+Georgia,Marietta,983.69
+New Jersey,Marlboro Township,171.05500000000004
+Ohio,Mentor,532.445
+Mississippi,Meridian,1124.365
+Massachusetts,Methuen,377.8250000000001
+Ohio,"Miami Township, Clermont County",400.13000000000005
+Pennsylvania,Middletown Township,718.8650000000001
+Connecticut,Middletown,386.085
+Ohio,Middletown,1828.77
+Michigan,Midland,234.54
+Oklahoma,Midwest City,1147.36
+Connecticut,Milford,606.065
+Pennsylvania,"Millcreek Township, Erie County",437.92
+Minnesota,Minnetonka,348.4650000000001
+North Dakota,Minot,364.37
+Indiana,Mishawaka,1201.11
+Illinois,Moline,683.09
+Louisiana,Monroe,1753.745
+Oklahoma,Moore,853.8649999999999
+New Jersey,Mount Laurel Township,354.095
+Illinois,Mount Prospect,281.39
+California,National City,628.09
+New Jersey,New Brunswick,651.3500000000001
+California,Newark,662.1550000000001
+Ohio,Newark,1000.91
+New York,Niagara Falls,1377.3950000000002
+Illinois,Normal,540.09
+New Jersey,North Brunswick Township,384.32
+Florida,North Lauderdale,640.5749999999999
+Florida,North Miami Beach,1040.41
+Florida,North Port,414.39
+Connecticut,Norwich,520.785
+California,Novato,382.385
+Michigan,Novi,381.58
+Illinois,Oak Lawn,412.975
+Florida,Oakland Park,1198.4700000000005
+Florida,Ocala,1204.88
+Washington,Olympia,925.74
+Illinois,Orland Park,480.0
+Arizona,Oro Valley,331.92
+Kentucky,Owensboro,907.34
+Florida,Palm Beach Gardens,665.16
+California,Palm Desert,991.405
+California,Palm Springs,1074.425
+California,Paramount,513.675
+Colorado,Parker,212.625
+New Jersey,Parsippany-Troy Hills Township,197.895
+Massachusetts,Peabody,454.87500000000006
+Pennsylvania,Penn Hills,454.72
+Florida,Pensacola,1302.13
+New Jersey,Perth Amboy,533.635
+California,Petaluma,316.215
+Texas,Pflugerville,347.67499999999995
+Arkansas,Pine Bluff,1601.3300000000002
+Florida,Pinellas Park,1173.795
+New Jersey,Piscataway Township,205.495
+Massachusetts,Pittsfield,602.655
+California,Placentia,367.605
+New Jersey,Plainfield,685.2499999999999
+Idaho,Pocatello,590.495
+Texas,Port Arthur,1004.485
+Florida,Port Orange,523.3750000000001
+Michigan,Portage,731.165
+California,Porterville,698.3000000000002
+New York,Poughkeepsie Town,671.48
+California,Poway,257.63
+Arizona,Prescott,619.985
+Illinois,Quincy,723.14
+California,Rancho Palos Verdes,257.715
+California,Rancho Santa Margarita,141.115
+Washington,Redmond,437.69
+Massachusetts,Revere,512.0550000000001
+Washington,Richland,528.4200000000001
+California,Rocklin,327.115
+North Carolina,Rocky Mount,1400.73
+Arkansas,Rogers,789.165
+California,Rohnert Park,426.57
+California,Rosemead,325.035
+Michigan,Roseville,844.0899999999999
+New Mexico,Roswell,1196.465
+Texas,Rowlett,368.965
+Michigan,Royal Oak,359.50500000000005
+Michigan,Saginaw Township,436.25000000000006
+Michigan,Saginaw,1091.155
+Massachusetts,Salem,507.095
+Kansas,Salina,1035.9299999999998
+Washington,Sammamish,157.115
+California,San Bruno,447.345
+California,San Gabriel,295.59
+California,San Jacinto,669.095
+California,San Luis Obispo,911.15
+Texas,San Marcos,696.115
+California,San Rafael,602.845
+Florida,Sanford,1188.39
+California,Santee,424.71
+Florida,Sarasota,1235.51
+New Jersey,Sayreville,285.15
+Wisconsin,Sheboygan,677.125
+Connecticut,Shelton,225.92
+Washington,Shoreline,638.015
+Arizona,Sierra Vista,698.75
+Georgia,Smyrna,566.5649999999999
+Tennessee,Smyrna,510.845
+New Jersey,South Brunswick Township,246.07
+Utah,South Jordan,400.12
+New York,Southampton Town,420.545
+Mississippi,Southaven,571.42
+Connecticut,Southington,357.965
+Michigan,St. Clair Shores,432.30500000000006
+Minnesota,St. Louis Park,665.7750000000001
+Missouri,St. Peters,555.5
+Pennsylvania,State College,294.39000000000004
+Oklahoma,Stillwater,678.9350000000001
+Connecticut,Stratford,564.175
+Illinois,Streamwood,372.525
+Ohio,Strongsville,366.685
+South Carolina,Summerville,593.69
+South Carolina,Sumter,1210.7
+Massachusetts,Taunton,390.34
+New Jersey,Teaneck Township,314.57500000000005
+Texas,Texas City,789.7
+Oregon,Tigard,718.095
+Illinois,Tinley Park,308.21
+Florida,Titusville,858.9350000000001
+New York,Tonawanda Town,403.9
+New York,Troy,1057.15
+Idaho,Twin Falls,620.19
+Ohio,"Union Township, Clermont County",728.1
+New Jersey,Union Township,370.68000000000006
+Illinois,Urbana,768.575
+Iowa,Urbandale,361.52
+Georgia,Valdosta,912.98
+Connecticut,Wallingford,417.72
+Ohio,Warren,1116.54
+New Jersey,"Washington Township, Gloucester County",488.36
+California,Watsonville,611.8399999999999
+Wisconsin,Wauwatosa,859.5950000000001
+New Jersey,Wayne Township,460.215
+New York,Webster Town and Village,227.89
+Florida,Wellington,525.24
+Ohio,West Chester Township,469.625
+Iowa,West Des Moines,655.7249999999999
+Connecticut,West Haven,571.77
+New Jersey,West New York,342.62000000000006
+New Jersey,West Orange,293.18499999999995
+California,West Sacramento,624.645
+New York,West Seneca Town,397.3
+Massachusetts,Westfield,413.765
+Massachusetts,Weymouth,348.995
+Illinois,Wheaton,226.97000000000003
+New York,White Plains,503.1450000000001
+Pennsylvania,Wilkes-Barre,643.36
+North Carolina,Wilson,1037.2600000000002
+California,Woodland,636.42
+Rhode Island,Woonsocket,697.635
+Texas,Wylie,291.895
+Pennsylvania,York,909.1
+California,Yucaipa,382.155
+California,Alameda,306.181
+Georgia,Albany,439.8975
+New York,Albany,504.02
+California,Alhambra,296.875
+Texas,Allen,234.11
+Georgia,Alpharetta,226.33
+California,Apple Valley,463.7
+Wisconsin,Appleton,291.57
+Illinois,Arlington Heights,217.33
+North Carolina,Asheville,464.035
+Washington,Auburn,369.1525
+Arizona,Avondale,436.58
+California,Baldwin Park,343.32000000000005
+New Jersey,Bayonne,286.695
+Texas,Baytown,349.1775
+Oregon,Beaverton,242.03500000000005
+California,Bellflower,377.74
+Washington,Bellingham,392.145
+Pennsylvania,Bensalem Township,324.47
+Pennsylvania,Bethlehem,331.28
+North Dakota,Bismarck,342.87500000000006
+Illinois,Bloomington,348.015
+Indiana,Bloomington,403.375
+Minnesota,Bloomington,255.27000000000004
+Florida,Boca Raton,335.085
+Illinois,Bolingbrook,252.135
+Louisiana,Bossier City,383.795
+Florida,Boynton Beach,473.51
+New Jersey,Brick Township,266.17
+Connecticut,Bristol,336.18500000000006
+Massachusetts,Brockton,545.005
+Minnesota,Brooklyn Park,369.31500000000005
+Texas,Bryan,379.555
+California,Buena Park,317.03000000000003
+Minnesota,Burnsville,277.735
+California,Camarillo,230.88
+New Jersey,Camden,479.0675
+Ohio,Canton,435.0975
+Indiana,Carmel,197.96500000000003
+California,Carson,428.615
+Illinois,Champaign,514.84
+New York,Cheektowaga Town,303.16
+New Jersey,Cherry Hill Township,286.085
+Wyoming,Cheyenne,306.555
+California,Chico,441.065
+California,Chino Hills,271.04
+California,Chino,404.375
+Illinois,Cicero,445.9500000000001
+California,Citrus Heights,425.495
+New York,Clarkstown Town,210.34
+New Jersey,Clifton,304.26
+Michigan,Clinton Township,335.45
+California,Clovis,455.35
+Texas,College Station,387.455
+New York,Colonie Town,244.81
+California,Compton,513.61
+Arkansas,Conway,393.49
+Minnesota,Coon Rapids,260.62
+Iowa,Council Bluffs,490.1675
+Rhode Island,Cranston,315.45
+Connecticut,Danbury,270.635
+Florida,Davie,404.18
+California,Davis,333.54999999999995
+Florida,Daytona Beach,471.3125
+Michigan,Dearborn,342.78000000000003
+Illinois,Decatur,352.3675
+Florida,Deerfield Beach,425.365
+Florida,Delray Beach,498.565
+Alabama,Dothan,358.4875
+Minnesota,Duluth,407.3
+Minnesota,Eagan,243.44
+New Jersey,East Orange,380.56
+Minnesota,Eden Prairie,213.34500000000003
+Texas,Edinburg,361.0325
+Oklahoma,Edmond,269.61
+California,Encinitas,322.295
+Illinois,Evanston,347.725
+Connecticut,Fairfield,271.99
+Massachusetts,Fall River,535.4200000000001
+Michigan,Farmington Hills,254.56000000000003
+Arkansas,Fayetteville,409.355
+Washington,Federal Way,369.8575
+Indiana,Fishers,210.595
+Arizona,Flagstaff,311.86
+Texas,Flower Mound,176.74
+California,Folsom,263.46000000000004
+Florida,Fort Myers,535.405
+Arkansas,Fort Smith,405.1725
+Massachusetts,Framingham,292.735
+New Jersey,"Franklin Township, Somerset County",323.84
+Tennessee,Franklin,220.35
+Maryland,Frederick,339.525
+Indiana,Gary,449.5875
+North Carolina,Gastonia,379.93250000000006
+New Jersey,Gloucester Township,364.07
+Arizona,Goodyear,370.145
+New York,Greece Town,289.76500000000004
+Colorado,Greeley,371.715
+North Carolina,Greenville,360.6625000000001
+South Carolina,Greenville,542.16
+Connecticut,Greenwich,122.49
+Connecticut,Hamden,326.6
+New Jersey,"Hamilton Township, Mercer County",333.34
+Ohio,Hamilton,371.9725000000001
+Indiana,Hammond,419.2425
+Texas,Harlingen,450.95
+Massachusetts,Haverhill,427.71
+California,Hawthorne,449.81500000000005
+California,Hemet,380.49750000000006
+California,Hesperia,493.105
+Oregon,Hillsboro,278.69000000000005
+Florida,Homestead,385.4175
+Alabama,Hoover,299.25500000000005
+California,Indio,392.2725
+Iowa,Iowa City,342.62
+Tennessee,Jackson,359.2425
+Wisconsin,Janesville,338.74
+Georgia,Johns Creek,142.27
+Tennessee,Johnson City,449.375
+Arkansas,Jonesboro,350.81250000000006
+California,Jurupa Valley,426.58
+Michigan,Kalamazoo,411.8875
+Louisiana,Kenner,343.595
+Washington,Kennewick,357.3
+Wisconsin,Kenosha,378.38
+Florida,Kissimmee,420.8925
+California,La Habra,306.045
+Indiana,Lafayette,382.6825
+California,Laguna Niguel,252.87500000000003
+California,Lake Forest,257.31
+Florida,Lakeland,356.4875
+New Jersey,Lakewood Township,258.00000000000006
+California,Lakewood,330.47
+Pennsylvania,Lancaster,449.86
+Florida,Largo,418.145
+New Mexico,Las Cruces,474.47
+Florida,Lauderhill,408.3175
+Kansas,Lawrence,400.2
+Massachusetts,Lawrence,543.71
+Oklahoma,Lawton,430.4575
+Utah,Layton,300.785
+Texas,League City,265.15
+Missouri,Lee's Summit,256.415
+California,Livermore,319.065
+Michigan,Livonia,277.34000000000003
+California,Lodi,370.9575
+Colorado,Longmont,299.38
+Texas,Longview,379.9375
+Ohio,Lorain,358.2275
+Colorado,Loveland,276.82
+Virginia,Lynchburg,331.735
+Massachusetts,Lynn,479.04
+California,Lynwood,399.825
+Georgia,Macon,392.17750000000007
+California,Madera,449.98750000000007
+Massachusetts,Malden,350.735
+California,Manteca,406.6
+Minnesota,Maple Grove,235.195
+Washington,Marysville,365.28
+Oregon,Medford,408.205
+Florida,Melbourne,496.64
+California,Menifee,355.95000000000005
+California,Merced,448.37750000000005
+Connecticut,Meriden,395.55
+Idaho,Meridian,252.045
+Florida,Miami Beach,441.0175
+New Jersey,Middletown Township,236.195
+California,Milpitas,323.34000000000003
+California,Mission Viejo,264.94000000000005
+Texas,Mission,319.95000000000005
+Montana,Missoula,355.02
+Texas,Missouri City,269.45
+California,Montebello,382.49250000000006
+California,Monterey Park,314.415
+South Carolina,Mount Pleasant,260.7
+New York,Mount Vernon,408.8250000000001
+California,Mountain View,257.31
+Indiana,Muncie,469.85
+Idaho,Nampa,353.20500000000004
+California,Napa,325.41
+New Hampshire,Nashua,306.24499999999995
+Massachusetts,New Bedford,564.1049999999999
+Texas,New Braunfels,319.0
+Connecticut,New Britain,365.2575000000001
+New York,New Rochelle,253.75
+California,Newport Beach,310.735
+Massachusetts,Newton,226.46500000000003
+New Jersey,North Bergen Township,237.985
+Arkansas,North Little Rock,407.81250000000006
+Florida,North Miami,419.7225
+Texas,North Richland Hills,318.58
+Pennsylvania,Northern York Regional,217.035
+Connecticut,Norwalk,283.80999999999995
+Missouri,O'Fallon,215.94
+Utah,Ogden,446.175
+New Jersey,Old Bridge Township,232.69000000000003
+Utah,Orem,227.07
+Wisconsin,Oshkosh,334.475
+Illinois,Palatine,181.48
+California,Palo Alto,300.375
+Ohio,Parma,122.935
+Washington,Pasco,381.4
+New Jersey,Passaic,422.995
+Rhode Island,Pawtucket,480.595
+Texas,Pearland,257.255
+California,Perris,412.98
+Texas,Pharr,411.5100000000001
+California,Pico Rivera,381.325
+California,Pittsburg,356.3325
+Florida,Plantation,413.24
+California,Pleasanton,237.06
+Minnesota,Plymouth,263.1
+Maine,Portland,353.995
+Virginia,Portsmouth,357.1625
+Massachusetts,Quincy,359.39500000000004
+Wisconsin,Racine,350.17250000000007
+New York,Ramapo Town,186.255
+California,Rancho Cordova,424.4
+South Dakota,Rapid City,469.475
+Pennsylvania,Reading,432.7525
+California,Redding,419.2925
+California,Redlands,447.67
+California,Redondo Beach,306.365
+California,Redwood City,373.835
+Washington,Renton,472.58
+New Mexico,Rio Rancho,304.48
+Virginia,Roanoke,489.575
+South Carolina,Rock Hill,410.395
+Georgia,Roswell,293.725
+California,San Clemente,272.63
+California,San Leandro,468.44000000000005
+California,San Marcos,318.365
+California,San Mateo,276.795
+California,San Ramon,233.695
+Georgia,Sandy Springs,375.83
+Utah,Sandy,316.92500000000007
+California,Santa Barbara,378.12
+California,Santa Cruz,497.71
+New Mexico,Santa Fe,362.1425
+California,Santa Monica,388.45
+Illinois,Schaumburg,245.59
+New York,Schenectady,420.5375
+Pennsylvania,Scranton,420.97
+Kansas,Shawnee,252.145
+Michigan,Shelby Township,236.705
+Iowa,Sioux City,406.1
+Illinois,Skokie,303.63
+Massachusetts,Somerville,329.595
+California,South Gate,389.155
+California,South San Francisco,335.07
+Michigan,Southfield,467.51
+Nevada,Sparks,373.055
+Washington,Spokane Valley,457.05
+Arkansas,Springdale,395.715
+Ohio,Springfield,375.30750000000006
+Oregon,Springfield,375.815
+Missouri,St. Charles,271.11
+Utah,St. George,297.55
+Missouri,St. Joseph,365.6325000000001
+Texas,Sugar Land,269.62
+Florida,Sunrise,433.125
+Florida,Tamarac,454.33
+Michigan,Taylor,473.465
+Texas,Temple,330.2225
+Indiana,Terre Haute,346.95750000000004
+New Jersey,Toms River Township,349.28000000000003
+California,Tracy,284.255
+New Jersey,Trenton,498.55750000000006
+Michigan,Troy,234.395
+California,Tulare,399.61750000000006
+California,Turlock,510.245
+Alabama,Tuscaloosa,363.9625
+California,Tustin,268.195
+California,Union City,377.675
+New Jersey,Union City,309.3
+California,Upland,421.3200000000001
+Pennsylvania,Upper Darby Township,312.895
+New York,Utica,494.005
+California,Vacaville,290.82
+Texas,Victoria,491.19000000000005
+New Jersey,Vineland,338.9375
+California,Vista,357.54
+California,Walnut Creek,360.735
+Massachusetts,Waltham,311.92499999999995
+Georgia,Warner Robins,364.5875
+Rhode Island,Warwick,285.845
+Michigan,Waterford Township,298.62
+Iowa,Waterloo,385.9075
+Illinois,Waukegan,399.735
+Wisconsin,Waukesha,265.975
+Wisconsin,West Allis,438.925
+Michigan,West Bloomfield Township,227.825
+Connecticut,West Hartford,274.995
+Michigan,Westland,407.46
+California,Westminster,348.075
+Florida,Weston,214.90500000000003
+California,Whittier,347.01
+Delaware,Wilmington,531.8975
+Minnesota,Woodbury,249.37
+Washington,Yakima,375.3250000000001
+California,Yorba Linda,260.28000000000003
+Pennsylvania,York Area Regional,234.075
+Ohio,Youngstown,439.8925
+California,Yuba City,418.95
+Arizona,Yuma,499.97
+Texas,Abilene,459.915
+Ohio,Akron,453.8825000000001
+Virginia,Alexandria,264.2425
+Pennsylvania,Allentown,401.05250000000007
+Texas,Amarillo,425.1325000000001
+New York,Amherst Town,241.7875
+Michigan,Ann Arbor,370.43
+California,Antioch,467.94
+Colorado,Arvada,303.00750000000005
+Georgia,Athens-Clarke County,488.55
+Illinois,Aurora,343.7875
+Louisiana,Baton Rouge,470.62750000000005
+Texas,Beaumont,467.79750000000007
+Washington,Bellevue,342.445
+California,Berkeley,470.65
+Montana,Billings,437.245
+Alabama,Birmingham,546.9625
+Idaho,Boise,332.86
+Colorado,Boulder,342.3225
+Connecticut,Bridgeport,596.59
+Oklahoma,Broken Arrow,302.43
+Texas,Brownsville,382.775
+California,Burbank,313.25000000000006
+Massachusetts,Cambridge,359.85
+Florida,Cape Coral,342.355
+California,Carlsbad,339.54
+Texas,Carrollton,369.055
+North Carolina,Cary,263.6225
+Iowa,Cedar Rapids,418.455
+Colorado,Centennial,273.77500000000003
+Arizona,Chandler,342.2
+South Carolina,Charleston,300.23
+Virginia,Chesapeake,354.18
+California,Chula Vista,326.77500000000003
+Tennessee,Clarksville,458.375
+Florida,Clearwater,490.3850000000001
+Missouri,Columbia,423.325
+Georgia,Columbus,407.4675
+California,Concord,418.1025
+Florida,Coral Springs,328.69500000000005
+California,Corona,353.785
+California,Costa Mesa,377.395
+California,Daly City,320.2325
+Iowa,Davenport,498.465
+Ohio,Dayton,465.7025
+Texas,Denton,363.265
+Iowa,Des Moines,411.0125000000001
+California,Downey,415.015
+North Carolina,Durham,430.9125
+New Jersey,Edison Township,289.6175
+California,El Cajon,370.06500000000005
+California,El Monte,378.18
+Illinois,Elgin,298.515
+New Jersey,Elizabeth,522.94
+California,Elk Grove,344.36
+Pennsylvania,Erie,382.37750000000005
+California,Escondido,395.31
+Oregon,Eugene,470.7125
+Indiana,Evansville,501.845
+Washington,Everett,425.2025
+California,Fairfield,421.03
+North Dakota,Fargo,342.66
+North Carolina,Fayetteville,410.9175
+Michigan,Flint,467.0125
+California,Fontana,401.64
+Colorado,Fort Collins,326.2
+Florida,Fort Lauderdale,448.3925
+California,Fremont,349.565
+Texas,Frisco,287.07250000000005
+California,Fullerton,373.5025
+Florida,Gainesville,483.18
+California,Garden Grove,343.49500000000006
+Texas,Garland,461.36
+Arizona,Gilbert,285.40500000000003
+Arizona,Glendale,411.4375
+California,Glendale,274.08250000000004
+Texas,Grand Prairie,415.645
+Michigan,Grand Rapids,430.8375
+Wisconsin,Green Bay,411.3
+Oregon,Gresham,479.775
+Virginia,Hampton,359.56500000000005
+Connecticut,Hartford,597.685
+California,Hayward,471.04
+Florida,Hialeah,358.26000000000005
+North Carolina,High Point,403.4025
+Florida,Hollywood,399.6825
+California,Huntington Beach,316.135
+Alabama,Huntsville,464.9075
+Missouri,Independence,416.1725
+California,Inglewood,444.84
+California,Irvine,259.69000000000005
+Texas,Irving,369.815
+Mississippi,Jackson,469.4175000000001
+Illinois,Joliet,396.9
+Kansas,Kansas City,439.5775
+Washington,Kent,412.8275
+Texas,Killeen,413.4225
+Tennessee,Knoxville,474.8075
+Louisiana,Lafayette,417.7425
+Colorado,Lakewood,422.705
+California,Lancaster,430.3
+Michigan,Lansing,461.1075
+Texas,Laredo,424.93
+Arkansas,Little Rock,522.6475
+Massachusetts,Lowell,465.2375
+Texas,Lubbock,452.1675
+Wisconsin,Madison,407.4100000000001
+New Hampshire,Manchester,456.56000000000006
+Texas,McAllen,300.925
+Texas,McKinney,298.6225
+Texas,Mesquite,384.1825
+Florida,Miami Gardens,448.3425
+Texas,Midland,359.575
+Florida,Miramar,420.385
+California,Modesto,469.5425
+Alabama,Montgomery,395.2025
+California,Moreno Valley,388.0575
+Tennessee,Murfreesboro,483.4
+California,Murrieta,294.385
+Illinois,Naperville,241.83
+Connecticut,New Haven,530.2325000000001
+Virginia,Newport News,386.68
+Virginia,Norfolk,499.53
+Oklahoma,Norman,347.87000000000006
+South Carolina,North Charleston,519.51
+Nevada,North Las Vegas,485.48
+California,Norwalk,386.765
+California,Oceanside,377.505
+Texas,Odessa,539.305
+Kansas,Olathe,272.9775
+California,Ontario,409.72
+California,Orange,296.46500000000003
+Florida,Orlando,486.2125
+Kansas,Overland Park,288.33
+California,Oxnard,340.03
+Florida,Palm Bay,437.345
+California,Palmdale,430.34
+California,Pasadena,392.835
+Texas,Pasadena,416.81
+New Jersey,Paterson,480.7425
+Florida,Pembroke Pines,342.87500000000006
+Arizona,Peoria,364.295
+Illinois,Peoria,435.9625
+California,Pomona,456.23
+Florida,Pompano Beach,473.2675
+Florida,Port St. Lucie,340.345
+Rhode Island,Providence,437.2075
+Utah,Provo,270.9475
+Colorado,Pueblo,443.6025000000001
+California,Rancho Cucamonga,438.7000000000001
+Nevada,Reno,450.35
+California,Rialto,512.81
+Texas,Richardson,379.3250000000001
+California,Richmond,478.2600000000001
+Virginia,Richmond,532.245
+Minnesota,Rochester,324.90500000000003
+New York,Rochester,460.6325
+Illinois,Rockford,518.6975
+California,Roseville,331.14500000000004
+Texas,Round Rock,283.9925
+Oregon,Salem,421.36
+California,Salinas,499.23
+Utah,Salt Lake City,555.5500000000001
+California,San Bernardino,455.57
+California,Santa Clara,350.9075
+California,Santa Clarita,303.87
+California,Santa Maria,474.6725
+California,Santa Rosa,349.865
+Georgia,Savannah-Chatham Metropolitan,469.54
+Arizona,Scottsdale,348.745
+Louisiana,Shreveport,434.9675000000001
+California,Simi Valley,282.805
+South Dakota,Sioux Falls,388.9
+Indiana,South Bend,409.2475
+Washington,Spokane,453.0575
+Illinois,Springfield,463.1975000000001
+Massachusetts,Springfield,483.1625
+Missouri,Springfield,487.4975
+Florida,St. Petersburg,460.6725
+Connecticut,Stamford,285.115
+Michigan,Sterling Heights,284.27000000000004
+California,Sunnyvale,302.04
+Arizona,Surprise,313.89
+New York,Syracuse,457.4675
+Washington,Tacoma,473.75250000000005
+Florida,Tallahassee,446.3075
+California,Temecula,348.40250000000003
+Arizona,Tempe,457.62000000000006
+Colorado,Thornton,331.645
+California,Thousand Oaks,257.8075
+Kansas,Topeka,534.46
+California,Torrance,300.83000000000004
+Texas,Tyler,401.5375
+California,Vallejo,428.195
+Washington,Vancouver,420.0700000000001
+California,Ventura,411.89
+California,Victorville,423.1325000000001
+California,Visalia,502.34
+Texas,Waco,392.0425
+Michigan,Warren,469.3075
+Connecticut,Waterbury,393.21
+California,West Covina,369.64
+Utah,West Jordan,330.865
+Florida,West Palm Beach,439.2225
+Utah,West Valley,443.97
+Colorado,Westminster,323.04
+Texas,Wichita Falls,391.0875
+North Carolina,Wilmington,410.2925000000001
+North Carolina,Winston-Salem,424.7725
+New Jersey,Woodbridge Township,289.9675
+Massachusetts,Worcester,465.7375
+New York,Yonkers,328.805
+ Alabama,Mobile3,441.187
+ Alaska,Anchorage,553.349
+ Arizona,Chandler,303.382
+ Arizona,Gilbert,245.73200000000003
+ Arizona,Glendale,428.1825
+ Arizona,Mesa,343.4115
+ Arizona,Phoenix,502.422
+ Arizona,Scottsdale,295.45250000000004
+ Arizona,Tucson,516.3755000000001
+ California,Anaheim,346.14900000000006
+ California,Bakersfield,521.619
+ California,Chula Vista,294.10850000000005
+ California,Fremont,295.29100000000005
+ California,Fresno,457.65350000000007
+ California,Irvine,251.48800000000003
+ California,Long Beach,442.83850000000007
+ California,Los Angeles,409.4335
+ California,Oakland,518.5145
+ California,Riverside,403.2305
+ California,Sacramento,444.7840000000001
+ California,San Bernardino,621.181
+ California,San Diego,316.9685
+ California,San Francisco,438.18050000000005
+ California,San Jose,368.4985
+ California,Santa Ana,343.99800000000005
+ California,Santa Clara,292.627
+ California,Stockton4,579.9565
+ Colorado,Aurora,404.8065
+ Colorado,Colorado Springs,407.3505
+ Colorado,Denver,464.1045
+ District of Columbia,"Washington, D.C.",389.505
+ Florida,Hialeah,286.3065
+ Florida,Jacksonville,441.9745
+ Florida,Miami,431.86300000000006
+ Florida,Orlando,516.2345
+ Florida,St. Petersburg,463.1170000000001
+ Florida,Tampa,334.3635
+ Georgia,Atlanta,516.9215
+ Georgia,Savannah,400.0815
+ Hawaii,Honolulu,317.074
+ Idaho,Boise,310.6075
+ Illinois,Chicago,463.2585000000001
+ Indiana,Fort Wayne,362.122
+ Indiana,Indianapolis,520.8305
+ Iowa,Des Moines,435.8805
+ Kansas,Wichita,566.0740000000001
+ Kentucky,Lexington,406.5125000000001
+ Kentucky,Louisville Metro6,503.5825
+ Louisiana,Baton Rouge,470.9515
+ Louisiana,New Orleans,500.4235000000001
+ Maryland,Baltimore,611.587
+ Massachusetts,Boston,357.86249999999995
+ Michigan,Detroit,449.7835
+ Minnesota,Minneapolis,574.177
+ Minnesota,St. Paul,485.91100000000006
+ Missouri,Kansas City,577.72
+ Missouri,St. Louis,497.982
+ Nebraska,Omaha,424.537
+ Nevada,Henderson,307.8505
+ Nevada,Las Vegas,488.59350000000006
+ Nevada,North Las Vegas,550.2515
+ Nevada,Reno,438.64900000000006
+ New Jersey,Jersey City,361.601
+ New Jersey,Newark,445.50950000000006
+ New Mexico,Albuquerque,513.1785
+ New York,Buffalo,563.428
+ New York,New York,290.734
+ North Carolina8,Charlotte-Mecklenburg,467.71100000000007
+ North Carolina8,Durham,523.5275
+ North Carolina8,Greensboro,479.1855
+ Ohio,Cincinnati,458.442
+ Ohio,Cleveland,552.546
+ Ohio,Columbus,472.1060000000001
+ Ohio,"Toledo4,5,7",464.8375000000001
+ Oklahoma,Oklahoma City,546.693
+ Oklahoma,Tulsa,498.1495
+ Oregon,Portland,453.7675
+ Pennsylvania,Philadelphia,425.0795
+ Pennsylvania,Pittsburgh,410.408
+ Tennessee,Memphis,469.198
+ Tennessee,Nashville,512.608
+ Texas,Arlington4,381.3610000000001
+ Texas,Austin,360.067
+ Texas,Corpus Christi,459.14200000000005
+ Texas,Dallas,494.5705
+ Texas,El Paso,287.9735
+ Texas,Fort Worth,419.2540000000001
+ Texas,Garland,367.479
+ Texas,Houston,532.0295000000001
+ Texas,Irving,326.81300000000005
+ Texas,Laredo,314.07750000000004
+ Texas,Plano,271.3855
+ Texas,San Antonio,493.52
+ Virginia,Chesapeake,314.997
+ Virginia,Norfolk,389.42800000000005
+ Virginia,Virginia Beach,246.9105
+ Washington,Seattle,424.142
+ Washington,Spokane,439.6575
+ Wisconsin,Madison,333.043
+ Wisconsin,Milwaukee,577.142

@@ -1,0 +1,82 @@
+* {
+    font-family: "Inter", sans-serif; 
+}
+
+/* h1 {
+    display: flex;
+    justify-content: center;
+} */
+
+.questionaire p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+li {
+    margin-bottom: 4rem;
+}
+
+.question {
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+.answers {
+    margin-top: 1.5rem;
+}
+
+button {
+    height: 3rem;
+    width: 9rem;
+    font-weight: 600;
+    border-radius: 0.5rem;
+    border: 3px black solid;
+}
+
+button:hover {
+    opacity: 80%;
+}
+
+.cold_temp {
+    background-color: rgb(113, 156, 255);
+}
+
+.mild_temp {
+    background-color: rgb(255, 196, 85);
+}
+
+.warm_temp {
+    background-color: rgb(255, 78, 78);
+}
+
+.low_priority {
+    background-color: rgb(113, 156, 255);
+}
+
+.medium_priority {
+    background-color: rgb(255, 196, 85);
+}
+
+.high_priority {
+    background-color: rgb(255, 78, 78);
+}
+
+.low_population {
+    background-color: rgb(113, 156, 255);
+}
+
+.medium_population {
+    background-color: rgb(255, 196, 85);
+}
+
+.high_population {
+    background-color: rgb(255, 78, 78);
+}
+
+.submit_button {
+    margin-bottom: 5rem;
+    margin-left: 11.75rem;
+    background-color: rgb(233, 233, 233);
+}

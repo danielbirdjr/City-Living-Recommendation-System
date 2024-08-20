@@ -12,74 +12,74 @@
 <body>
     <h1>City Living Recommendation System</h1>
     <div class="questionaire">
-        <p>For the following questions, make sure to choose only 1 option for <u>all</u> questions.</p>
+        <p>Answer <u>all</u> questions regarding the criteria you want your city to have.</p>
         <ol>
             <li class="question">How important is it that the cost of living is low?
-                <div class="answers">
-                    <button class="low_priority">Low priority</button>
-                    <button class="medium_priority">Medium priority</button>
-                    <button class="high_priority">High priority</button>
+                <div class="answers" data-question="cost_of_living">
+                    <button class="btn-1" data-value="low">Low priority</button>
+                    <button class="btn-2" data-value="medium">Medium priority</button>
+                    <button class="btn-3" data-value="high">High priority</button>
                 </div>
             </li>
             <li class="question">How important is it that the median income is high?
-                <div class="answers">
-                    <button class="low_priority">Low priority</button>
-                    <button class="medium_priority">Medium priority</button>
-                    <button class="high_priority">High priority</button>
+                <div class="answers" data-question="median_income">
+                    <button class="btn-1" data-value="low">Low priority</button>
+                    <button class="btn-2" data-value="medium">Medium priority</button>
+                    <button class="btn-3" data-value="high">High priority</button>
                 </div>
             </li>
             <li class="question">Which population size do you prefer most?
-                <div class="answers">
-                    <button class="low_population">Small</button>
-                    <button class="medium_population">Medium</button>
-                    <button class="high_population">Large</button>
+                <div class="answers" data-question="population">
+                    <button class="btn-1" data-value="low">Small</button>
+                    <button class="btn-2" data-value="medium">Medium</button>
+                    <button class="btn-3" data-value="high">Large</button>
                 </div>
             </li>
             <li class="question">What temperature do you prefer most in the winter?
-                <div class="answers">
-                    <button class="cold_temp">Cold</button>
-                    <button class="mild_temp">Mild</button>
-                    <button class="warm_temp">Hot</button>
+                <div class="answers" data-question="winter_temp">
+                    <button class="btn-1" data-value="cold">Cold</button>
+                    <button class="btn-2" data-value="mild">Mild</button>
+                    <button class="btn-3" data-value="warm">Hot</button>
                 </div>
             </li>
             <li class="question">What temperature do you prefer most in the spring?
-                <div class="answers">
-                    <button class="cold_temp">Cold</button>
-                    <button class="mild_temp">Mild</button>
-                    <button class="warm_temp">Hot</button>
+                <div class="answers" data-question="spring_temp">
+                    <button class="btn-1" data-value="cold">Cold</button>
+                    <button class="btn-2" data-value="mild">Mild</button>
+                    <button class="btn-3" data-value="warm">Hot</button>
                 </div>
             </li>
             <li class="question">What temperature do you prefer most in the summer?
-                <div class="answers">
-                    <button class="cold_temp">Cold</button>
-                    <button class="mild_temp">Mild</button>
-                    <button class="warm_temp">Hot</button>
+                <div class="answers" data-question="summer_temp">
+                    <button class="btn-1" data-value="cold">Cold</button>
+                    <button class="btn-2" data-value="mild">Mild</button>
+                    <button class="btn-3" data-value="warm">Hot</button>
                 </div>
             </li>
             <li class="question">What temperature do you prefer most in the fall?
-                <div class="answers">
-                    <button class="cold_temp">Cold</button>
-                    <button class="mild_temp">Mild</button>
-                    <button class="warm_temp">Hot</button>
+                <div class="answers" data-question="fall_temp">
+                    <button class="btn-1" data-value="cold">Cold</button>
+                    <button class="btn-2" data-value="mild">Mild</button>
+                    <button class="btn-3" data-value="warm">Hot</button>
                 </div>
             </li>
             <li class="question">How important is safety a factor?
-                <div class="answers">
-                    <button class="cold_temp">Cold</button>
-                    <button class="mild_temp">Mild</button>
-                    <button class="warm_temp">Hot</button>
+                <div class="answers" data-question="safety">
+                    <button class="btn-1" data-value="low">Low priority</button>
+                    <button class="btn-2" data-value="medium">Medium priority</button>
+                    <button class="btn-3" data-value="high">High priority</button>
                 </div>
             </li>
             <li class="question">How important is it that education here is typically good?
-                <div class="answers">
-                    <button class="low_priority">Low priority</button>
-                    <button class="medium_priority">Medium priority</button>
-                    <button class="high_priority">High priority</button>
+                <div class="answers" data-question="education">
+                    <button class="btn-1" data-value="low">Low priority</button>
+                    <button class="btn-2" data-value="medium">Medium priority</button>
+                    <button class="btn-3" data-value="high">High priority</button>
                 </div>
             </li>
         </ol>
         <button class="submit_button">Submit</button>
     </div>
-
+    <script src="/web-app/src/js/script.js"></script> <!-- Link to JavaScript file -->
 </body>
 </html>

@@ -1,0 +1,304 @@
+Abilene, TX: 75
+Akron, OH: 45
+Albany, GA: 35
+Albany, OR: 85
+Albany, NY: 60
+Albuquerque, NM: 40
+Alexandria, LA: 30
+Allentown, PA: 50
+Altoona, PA: 75
+Amarillo, TX: 55
+Ames, IA: 85
+Anchorage, AK: 50
+Ann Arbor, MI: 85
+Appleton, WI: 90
+Asheville, NC: 65
+Atlanta, GA: 45
+Auburn, NY: 65
+Auburn, AL: 85
+Austin, TX: 70
+Bakersfield, CA: 40
+Baltimore, MD: 30
+Baton Rouge, LA: 40
+Beaumont, TX: 45
+Bellingham, WA: 85
+Billings, MT: 70
+Binghamton, NY: 50
+Birmingham, AL: 40
+Bismarck, ND: 85
+Blacksburg, VA: 90
+Bloomington, IN: 80
+Boston, MA: 65
+Boulder, CO: 90
+Bowling Green, KY: 70
+Brownsville, TX: 50
+Buffalo, NY: 55
+Burlington, NC: 60
+Burlington, VT: 90
+Canton, OH: 45
+Casper, WY: 85
+Cedar Rapids, IA: 80
+Champaign, IL: 65
+Charleston, WV: 55
+Charleston, SC: 70
+Charlottesville, VA: 85
+Cheyenne, WY: 85
+Chicago, IL: 35
+Chico, CA: 60
+Cincinnati, OH: 50
+Clarksville, TN: 65
+Cleveland, TN: 60
+Cleveland, OH: 50
+Coeur d'Alene, ID: 85
+College Station, TX: 80
+Colorado Springs, CO: 75
+Columbia, MO: 70
+Columbia, SC: 60
+Columbus, GA: 50
+Columbus, IN: 85
+Columbus, OH: 65
+Concord, NH: 90
+Corpus Christi, TX: 60
+Corvallis, OR: 85
+Danville, IL: 45
+Danville, VA: 50
+Dayton, OH: 40
+Decatur, AL: 55
+Decatur, IL: 50
+Denver, CO: 70
+Des Moines, IA: 75
+Detroit, MI: 30
+Dothan, AL: 65
+Dubuque, IA: 85
+Duluth, MN: 80
+Durham, NC: 55
+El Centro, CA: 50
+El Paso, TX: 70
+Enid, OK: 80
+Erie, PA: 60
+Eugene, OR: 75
+Evansville, IN: 60
+Fargo, ND: 85
+Farmington, MO: 70
+Farmington, NM: 65
+Fayetteville, NC: 55
+Fayetteville, AR: 75
+Flagstaff, AZ: 80
+Flint, MI: 35
+Fond du Lac, WI: 85
+Fort Collins, CO: 85
+Fort Smith, AR: 55
+Fort Wayne, IN: 70
+Fresno, CA: 55
+Gainesville, FL: 65
+Gainesville, GA: 70
+Grand Forks, ND: 85
+Grand Island, NE: 80
+Grand Junction, CO: 75
+Grand Rapids, MI: 65
+Great Falls, MT: 80
+Greeley, CO: 75
+Green Bay, WI: 80
+Greensboro, NC: 65
+Greenville, NC: 60
+Greenville, SC: 70
+Greenwood, SC: 55
+Hammond, LA: 40
+Hanford, CA: 55
+Harrisburg, PA: 50
+Harrisonburg, VA: 75
+Hartford, CT: 45
+Hattiesburg, MS: 60
+Hickory, NC: 70
+Houston, TX: 55
+Huntsville, AL: 75
+Huntsville, TX: 70
+Hutchinson, KS: 65
+Idaho Falls, ID: 80
+Indianapolis, IN: 50
+Iowa City, IA: 75
+Jackson, MI: 45
+Jackson, MS: 40
+Jackson, TN: 50
+Jacksonville, FL: 55
+Jacksonville, NC: 65
+Janesville, WI: 75
+Jefferson City, MO: 70
+Johnson City, TN: 70
+Jonesboro, AR: 60
+Joplin, MO: 55
+Kalamazoo, MI: 50
+Kansas City, MO: 50
+Kennewick, WA: 75
+Killeen, TX: 55
+Kingsport, TN: 70
+Knoxville, TN: 65
+Kokomo, IN: 65
+La Crosse, WI: 75
+Lafayette, LA: 50
+Lake Havasu City, AZ: 70
+Lakeland, FL: 60
+Lancaster, PA: 70
+Lansing, MI: 55
+Laredo, TX: 60
+Las Cruces, NM: 65
+Las Vegas, NV: 50
+Lawrence, KS: 70
+Lawton, OK: 45
+Lexington, KY: 65
+Lincoln, NE: 75
+Little Rock, AR: 45
+Longview, TX: 55
+Longview, WA: 70
+Lubbock, TX: 60
+Lynchburg, VA: 70
+Macon, GA: 45
+Madera, CA: 50
+Madison, WI: 80
+Manchester, NH: 75
+Mansfield, OH: 65
+McAllen, TX: 55
+Medford, OR: 70
+Memphis, TN: 40
+Merced, CA: 50
+Meridian, MS: 45
+Midland, MI: 75
+Midland, TX: 70
+Milwaukee, WI: 40
+Minot, ND: 75
+Missoula, MT: 75
+Modesto, CA: 55
+Monroe, LA: 45
+Monroe, MI: 65
+Montgomery, AL: 50
+Mount Pleasant, MI: 70
+Mount Vernon, WA: 75
+Muncie, IN: 65
+Napa, CA: 80
+Nashville, TN: 60
+New Haven, CT: 50
+New Orleans, LA: 30
+New York, NY: 50
+Ocala, FL: 65
+Odessa, TX: 55
+Ogden, UT: 70
+Oklahoma City, OK: 55
+Olympia, WA: 75
+Omaha, NE: 70
+Orlando, FL: 60
+Oshkosh, WI: 75
+Owensboro, KY: 65
+Pensacola, FL: 65
+Peoria, IL: 55
+Philadelphia, PA: 35
+Phoenix, AZ: 55
+Pine Bluff, AR: 40
+Pittsburgh, PA: 60
+Pittsfield, MA: 75
+Pocatello, ID: 75
+Portland, ME: 80
+Portland, OR: 70
+Portsmouth, OH: 45
+Prescott, AZ: 75
+Providence, RI: 60
+Provo, UT: 85
+Pueblo, CO: 45
+Quincy, IL: 55
+Racine, WI: 50
+Rapid City, SD: 70
+Reading, PA: 40
+Redding, CA: 55
+Reno, NV: 50
+Richmond, IN: 60
+Richmond, VA: 55
+Richmond, KY: 65
+Riverside, CA: 50
+Roanoke, VA: 55
+Rochester, MN: 75
+Rochester, NY: 50
+Rockford, IL: 45
+Rocky Mount, NC: 50
+Roswell, NM: 65
+Sacramento, CA: 55
+Saginaw, MI: 45
+Salem, OR: 60
+Salinas, CA: 50
+Salt Lake City, UT: 75
+San Antonio, TX: 50
+San Diego, CA: 75
+San Francisco, CA: 65
+San Jose, CA: 75
+San Luis Obispo, CA: 75
+Santa Cruz, CA: 60
+Santa Fe, NM: 70
+Santa Rosa, CA: 65
+Savannah, GA: 50
+Scranton, PA: 50
+Seattle, WA: 55
+Shawnee, OK: 55
+Sheboygan, WI: 70
+Shelton, WA: 65
+Shreveport, LA: 45
+Sierra Vista, AZ: 70
+Sioux City, IA: 65
+Sioux Falls, SD: 75
+South Bend, IN: 45
+Spokane, WA: 55
+Springfield, IL: 60
+Springfield, MA: 45
+Springfield, MO: 55
+Springfield, OH: 50
+St. Louis, MO: 35
+State College, PA: 75
+Stillwater, OK: 70
+Sumter, SC: 45
+Syracuse, NY: 50
+Tallahassee, FL: 55
+Tampa, FL: 70
+Terre Haute, IN: 45
+Topeka, KS: 50
+Trenton, NJ: 40
+Tucson, AZ: 50
+Tulsa, OK: 55
+Tuscaloosa, AL: 50
+Twin Falls, ID: 65
+Tyler, TX: 60
+Utica, NY: 50
+Valdosta, GA: 45
+Vallejo, CA: 40
+Vineland, NJ: 50
+Virginia Beach, VA: 75
+Visalia, CA: 45
+Waco, TX: 55
+Warner Robins, GA: 60
+Waterloo, IA: 55
+Wichita Falls, TX: 50
+Wichita, KS: 55
+Wilmington, NC: 55
+Wilson, NC: 50
+Winston-Salem, NC: 55
+Worcester, MA: 50
+Yakima, WA: 45
+York, PA: 50
+Youngstown, OH: 40
+Yuba City, CA: 50
+Yuma, AZ: 55
+Bloomington, IL: 60
+Lafayette, IN: 55
+Los Angeles, CA: 45
+Sarasota, FL: 70
+Salem, OH: 60
+Santa Maria, CA: 55
+Honolulu, HI: 60
+Stamford, CT: 70
+Fort Myers, FL: 65
+Dallas, TX: 45
+Davenport, IA: 50
+Daytona Beach, FL: 50
+Hagerstown, MD: 50
+Logan, UT: 70
+Miami, FL: 45
+Minneapolis, MN: 55
+Ventura, CA: 75
+Melbourne, FL: 70
+Victoria, TX: 55

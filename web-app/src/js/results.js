@@ -1,9 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // This would be populated with data from the backend
     const recommendations = JSON.parse(localStorage.getItem('recommendations'));
 
     const resultsDiv = document.getElementById('results');
-    
+
     if (recommendations && recommendations.length > 0) {
         resultsDiv.innerHTML = recommendations.map(rec => `
             <div>

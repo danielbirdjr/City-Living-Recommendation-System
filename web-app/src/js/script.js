@@ -12,7 +12,6 @@ document.querySelectorAll('.answers').forEach(answerGroup => {
     });
 });
 
-// Handle form submission and send data to the backend
 document.querySelector('.submit_button').addEventListener('click', async function() {
     const preferences = {};
     document.querySelectorAll('.answers').forEach(answerGroup => {
@@ -23,8 +22,6 @@ document.querySelector('.submit_button').addEventListener('click', async functio
             preferences[question] = value;
         }
     });
-
-    console.log(preferences); // Check if preferences are being captured correctly
 
     // Send preferences to your backend (replace '/api/recommendations' with your API endpoint)
     const response = await fetch('/api/recommendations', {
@@ -37,13 +34,9 @@ document.querySelector('.submit_button').addEventListener('click', async functio
 
     const recommendations = await response.json();
 
-    window.location.href = '/results.html'; // Redirect to results page
+    // Store recommendations in localStorage
+    localStorage.setItem('recommendations', JSON.stringify(recommendations));
 
-    const resultsDiv = document.getElementById('results');
-    resultsDiv.innerHTML = recommendations.map(rec => `
-        <div>
-            <h3>${rec.City}, ${rec.State}</h3>
-            <p>Score: ${rec.recommendation_score.toFixed(2)}</p>
-        </div>
-    `).join('');
+    // Redirect to results page
+    window.location.href = 'results.html';
 });

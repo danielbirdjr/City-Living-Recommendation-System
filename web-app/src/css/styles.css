@@ -2,11 +2,6 @@
     font-family: "Inter", sans-serif; 
 }
 
-/* h1 {
-    display: flex;
-    justify-content: center;
-} */
-
 body {
     display: flex;
     flex-direction: column;

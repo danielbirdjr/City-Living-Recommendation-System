@@ -35,7 +35,7 @@ df['recommendation_score'] = (
     df['safety_index'] * float(preferences['safety'])
 )
 
-# Sort by recommendation score
+# Sort by recommendation score 
 df = df.sort_values(by='recommendation_score', ascending=False)
 
 # Show top 10 recommended cities based on the user's preferences

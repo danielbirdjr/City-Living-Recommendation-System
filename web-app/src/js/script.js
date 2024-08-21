@@ -12,8 +12,7 @@ document.querySelectorAll('.answers').forEach(answerGroup => {
     });
 });
 
-// Example of what you could do upon form submission
-document.querySelector('.submit_button').addEventListener('click', function() {
+document.querySelector('.submit_button').addEventListener('click', async function() {
     const preferences = {};
     document.querySelectorAll('.answers').forEach(answerGroup => {
         const question = answerGroup.getAttribute('data-question');
@@ -23,5 +22,24 @@ document.querySelector('.submit_button').addEventListener('click', function() {
             preferences[question] = value;
         }
     });
-    console.log(preferences); // You can handle form data here
+
+    const response = await fetch('/api/recommendations', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(preferences),
+    });
+
+    const recommendations = await response.json();
+
+    window.location.href = '/results.html'; // Redirect to results page
+
+    const resultsDiv = document.getElementById('results');
+    resultsDiv.innerHTML = recommendations.map(rec => `
+        <div>
+            <h3>${rec.City}, ${rec.State}</h3>
+            <p>Score: ${rec.recommendation_score.toFixed(2)}</p>
+        </div>
+    `).join('');
 });

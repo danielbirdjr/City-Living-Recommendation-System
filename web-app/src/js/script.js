@@ -12,6 +12,7 @@ document.querySelectorAll('.answers').forEach(answerGroup => {
     });
 });
 
+// Handle form submission and send data to the backend
 document.querySelector('.submit_button').addEventListener('click', async function() {
     const preferences = {};
     document.querySelectorAll('.answers').forEach(answerGroup => {
@@ -23,6 +24,9 @@ document.querySelector('.submit_button').addEventListener('click', async functio
         }
     });
 
+    console.log(preferences); // Check if preferences are being captured correctly
+
+    // Send preferences to your backend (replace '/api/recommendations' with your API endpoint)
     const response = await fetch('/api/recommendations', {
         method: 'POST',
         headers: {
